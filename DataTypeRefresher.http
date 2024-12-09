@@ -1,0 +1,6 @@
+@DataTypeRefresher_HostAddress = http://localhost:5249
+
+GET {{DataTypeRefresher_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
