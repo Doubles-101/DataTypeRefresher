@@ -129,5 +129,3 @@ class Program4
     }
 
 }
-
-// Well that was pretty easy haha
